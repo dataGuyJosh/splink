@@ -1,1 +1,1 @@
-https://moj-analytical-services.github.io/splink/index.html
+https://moj-analytical-services.github.io/splink/demos/tutorials/00_Tutorial_Introduction.html
