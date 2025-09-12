@@ -2,5 +2,4 @@ splink
 ipython
 
 # misc
-matplotlib
 autopep8
